@@ -4,7 +4,6 @@ body {
     margin: 0;
 }
 .top-content{
-    position: relative;
     background: #e0ec43;
     text-align: left;
     padding: 30px;
@@ -55,12 +54,15 @@ h1 {
 
 @media only screen and (max-width: 630px) {
     .audit-image {
-        width: 460px;
+        width: 300px;
     }
     .logo {
         width: 360px;
     }
     .map {
         width: 300px;
+    }
+    .top-content, .bottom-content {
+        padding: 15px;
     }
 }
