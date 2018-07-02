@@ -60,4 +60,7 @@ h1 {
     .logo {
         width: 360px;
     }
+    .map {
+        width: 300px;
+    }
 }
