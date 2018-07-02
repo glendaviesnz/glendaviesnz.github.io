@@ -54,13 +54,13 @@ h1 {
 
 @media only screen and (max-width: 630px) {
     .audit-image {
-        width: 300px;
+        width: 80%;
     }
     .logo {
         width: 360px;
     }
     .map {
-        width: 300px;
+        width: 80%;
     }
     .top-content, .bottom-content {
         padding: 15px;
