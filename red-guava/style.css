@@ -25,6 +25,7 @@ h1 {
 }
 .map {
     width: 400px;
+    border: 1px solid #2e2925;
 }
 .bio {
     padding: 15px;
@@ -38,7 +39,7 @@ h1 {
 
 .bottom-content {
     padding: 30px;
-    background: #f53c40;
+    background: #6fc4f0;
     border-top: 4px solid #2e2925;
 }
 
@@ -49,7 +50,7 @@ h1 {
     width: 600px;
 }
 .email {
-    color: #ffffff;
+    color: #2e2925;
 }
 
 @media only screen and (max-width: 630px) {
